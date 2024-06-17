@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":30,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":5,
+        "name":"Horror Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Movie",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":6,
+        "name":"History Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":250,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":7,
+        "name":"Spiritual Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":500,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":8,
+        "name":"Comic Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":30,
+        "category":"Comic",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":9,
+        "name":"Eco Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Eco",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    },
+    {
+        "id":10,
+        "name":"Qoutes Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":70,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-books_1101-38.jpg?t=st=1717074451~exp=1717078051~hmac=208c34e2ba4fa4756d9b10d95799657da48f1c43aaf01e830607a04209158bd0&w=740"
+    }
+]
