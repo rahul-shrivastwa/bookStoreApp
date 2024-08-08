@@ -35,7 +35,7 @@ function Signup() {
       })
       .catch((err) => {
         if(err.response){
-          console.log(err);
+          console.log(err.response.data);
           toast.error("Error:" + err.response.data.message);
         }
       });
