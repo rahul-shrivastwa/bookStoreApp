@@ -30,7 +30,7 @@ function Login() {
       })
       .catch((err) => {
         if(err.response){
-          console.log(err.response.data);
+          console.log(err);
           toast.error("Error:" + err.response.data.message);
           setTimeout(() => {}, 2000);
         }
