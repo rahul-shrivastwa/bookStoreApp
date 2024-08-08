@@ -11,7 +11,7 @@ function Course() {
         const res = await axios.get("https://book-app-mos8.onrender.com/book");
         setBook(res.data);
       } catch (error) {
-        console.log(error.response.data);
+        console.log(error);
       }
     }
     getBook();
