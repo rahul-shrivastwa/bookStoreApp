@@ -13,7 +13,7 @@ function Freebook() {
         const res = await axios.get("https://book-app-mos8.onrender.com/book");
         setBook(res.data.filter((data)=> data.category === "Free"));
       } catch (error) {
-        console.log(error);
+        console.log(error.response.data);
       }
     }
     getBook();
